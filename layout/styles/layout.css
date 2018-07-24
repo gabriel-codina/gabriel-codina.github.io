@@ -548,3 +548,8 @@ img{
     opacity: 0;
     visiblity: hidden;
 }
+
+.bold{
+font-weight: bold !important;
+    color: black;
+}
